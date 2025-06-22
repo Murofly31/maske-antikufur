@@ -1,0 +1,20 @@
+settings:
+  detection_mode: "contains"
+  case_sensitive: false
+  messages:
+    warning: "[MaskeAntiKüfür ] DADİ DADİ POLİS EMRE GELDİ!!!! KÜFÜR YASAK {player} adlı oyuncu uyarıldı :)"
+    blocked: "[MaskeAntiKüfür]  sunucuda küfür kullandığın için mesaj engellendi :)"
+    admin_notify: "[MaskeAntiKüfür] {player} adlı oyuncu küfür kullandı dediği ise şuydu : {message}"
+  website:
+    enabled: true
+  bad_words:
+    - amk
+    - a.m.k
+warnings:
+  max_warnings: 3
+  mute_duration: 300
+  messages:
+    first: "&c[polis emre] &e uyarı küfür etmeyin"
+logging:
+  enabled: true
+  file: "logs/anti-kufur.log"
