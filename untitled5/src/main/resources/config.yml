@@ -10,6 +10,20 @@ settings:
   bad_words:
     - amk
     - a.m.k
+    - orospu
+    - piç
+    - amcık
+    - fucking
+    - your mom
+    - ananı sikim
+    - ananı sikeyim
+    - anan
+    - porno
+    - sikiş
+    - sikim
+    - skm 
+    - oç
+    - oe
 warnings:
   max_warnings: 3
   mute_duration: 300
