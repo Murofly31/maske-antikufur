@@ -8,22 +8,51 @@ settings:
   website:
     enabled: true
   bad_words:
-    - amk
-    - a.m.k
-    - orospu
-    - piç
-    - amcık
-    - fucking
-    - your mom
-    - ananı sikim
-    - ananı sikeyim
-    - anan
-    - porno
-    - sikiş
-    - sikim
-    - skm 
-    - oç
-    - oe
+  - a.m.k
+  - amq
+  - aq
+  - a.q
+  - ananı sikim
+  - ananı sikeyim
+  - anan
+  - ananızı
+  - ananı
+  - anasını
+  - orospu
+  - orospu çocuğu
+  - oç
+  - o.c
+  - oc
+  - piç
+  - p*ç
+  - p i ç
+  - amcık
+  - amcigi
+  - sikim
+  - s i k i m
+  - s*kim
+  - sikiş
+  - s.k.m
+  - skm
+  - s*k*m
+  - s*kiş
+  - sikecem
+  - s*kecem
+  - s.kecem
+  - porno
+  - fucking
+  - fuck
+  - your mom
+  - fuck your mom
+  - allahsız
+  - allaha küfür
+  - allahı s.k
+  - allahı sik
+  - allahı s*k
+  - tanrıya küfür
+  - tanrıyı s.k
+  - tanrıyı sik
+  - oe
 warnings:
   max_warnings: 3
   mute_duration: 300
